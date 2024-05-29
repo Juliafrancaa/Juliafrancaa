@@ -1,4 +1,9 @@
-## Hi there 👋
+## bem vindo ao meu perfil👋
+
+me chamo júlia
+tenho 17 anos 
+gosto de ler, desenhar, musica e escrever 
+gosto de arte no geral 
 
 <!--
 **Juliafrancaa/Juliafrancaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
